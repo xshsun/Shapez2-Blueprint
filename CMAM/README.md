@@ -7,6 +7,7 @@
 <p>
   <img src="./image/CMAM单元.png" alt="PhotoGIMP Diolinux Splash Art">
 </p>
+
 * 一个CMAM单元制作最上层图形
 * 如果要4层图形，从下往上串联4个CMAM单元，并在右下方提供图形信号输入
 
